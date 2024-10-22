@@ -6,8 +6,10 @@
   <body>
     <h1>Iice</h1>
     <ul>
-      <li> csi 205 front End and soft ware , click <a href="httpshttps://iizensx.github.io/_multipages">here</a></li>
-    </ul>
-    <h1>https://iizensx.github.io/_multipages</h1>
+  <li> CSI 205 ส่วนหน้าและซอฟต์แวร์, คลิก <a href="https://iizensx.github.io/_multipages">ที่นี่</a> </li>
+      <h1>https://iizensx.github.io/_multipages</h1>
+</ul>
+
+    
   </body>
 </html>
